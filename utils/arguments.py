@@ -16,7 +16,7 @@ class HelpFormatter(argparse.HelpFormatter):
 # Custom help menu.
 custom_usage = """
   
-WAPSauce
+DopplerFi
 --------------------------------------------------\n
 Usage Examples: 
   python3 [].py -i wlan0
