@@ -1,3 +1,9 @@
+# App Specific
+my_certs/
+my_configs/
+my_hostapds/
+my_logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
